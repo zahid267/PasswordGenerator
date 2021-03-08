@@ -27,9 +27,7 @@ THEN the password is either displayed to the page
 
 The following image shows the web application's appearance and functionality:
 
-![PasswordGeneration screen-shot](/Assets/images/PasswordGenerator.png)
 ![PasswordGeneration screen-shot](./Assets/images/PasswordGenerator.png)
-![PasswordGeneration screen-shot](../Assets/images/PasswordGenerator.png)
 
 * The URL of the deployed application : https://zahid267.github.io/PasswordGenerator/
 
