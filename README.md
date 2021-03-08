@@ -4,7 +4,7 @@ Password Generator using JavaScript
 This web page is used to randomly generate a password that meets certain criteria
 SO that a user can create a strong password that provides greater security
 
-## Criteria
+# Criteria
 
 ```
 GIVEN the user need a new, secure password
@@ -22,7 +22,7 @@ WHEN all prompts are answered
 THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed to the page
-
+```
 ## Mock-Up
 
 The following image shows the web application's appearance and functionality:
