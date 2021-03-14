@@ -18,16 +18,20 @@ body {
 }
 
 .wrapper {
-  padding-top: 30px;
+  padding-top: 0px;
   padding-left: 20px;
   padding-right: 20px;
+  background-color: rgb(118, 132, 158);
 }
 
 header {
   text-align: center;
   padding: 20px;
-  padding-top: 0px;
-  color: hsl(206, 17%, 28%);
+  padding-top: 20px;
+ /* color: hsl(206, 17%, 28%);*/
+  color:lightcyan;
+  background-color:  rgb(14, 41, 92);
+  justify-content: center;
 }
 
 .card {
@@ -58,7 +62,7 @@ header {
   /*new line*/
   border: 10px solid #185085;
   background-color: #5f7e9c;
-  ;  
+  border-radius: 10px;
 }
 
 .card-footer {
@@ -134,6 +138,10 @@ button[disabled] {
 
   #password {
     font-size: 1rem;
+  }
+  .card{
+    max-width: 600px;
+    padding: 15px 20px;
   }
 }
 
